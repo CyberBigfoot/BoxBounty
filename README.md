@@ -58,8 +58,8 @@ docker compose version
 Clone or download this repository:
 
 ```bash
-git clone <repository-url>
-cd boxbounty
+git clone https://github.com/CyberBigfoot/BoxBounty.git
+cd BoxBounty
 ```
 
 Or create the directory structure manually (see Project Structure below).
